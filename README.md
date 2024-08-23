@@ -11,6 +11,6 @@ I am a Master's student in Computer Science at the Federal University of Campina
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/anna-lira)
+- [LinkedIn]("www.linkedin.com/in/anna-lira")
 - [Lattes](http://lattes.cnpq.br/9315775432767228)
 - Email: anna.lira@copin.ufcg.edu.br
