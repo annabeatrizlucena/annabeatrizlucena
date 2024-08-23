@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**annabeatrizlucena/annabeatrizlucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Master's student in Computer Science at the Federal University of Campina Grande, the same institution where I earned my Bachelor's degree in Computer Science. I have a strong affinity for academic research, and my current focus is on web caching systems, where I aim to explore strategies to improve the performance and efficiency of these types of systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publications
+
+- [No Clash on Cache: Observations from a Multi-tenant Ecommerce Platform](https://dl.acm.org/doi/10.1145/3629526.3645039)
+- [Desafios na Gerência de Cache Web Multi-locatários](https://www.researchgate.net/publication/382533048_Desafios_na_Gerencia_de_Cache_Web_Multi-locatarios)
+
+## Contact
+
+- [LinkedIn](www.linkedin.com/in/anna-lira)
+- [Lattes](http://lattes.cnpq.br/9315775432767228)
+- Email: anna.lira@copin.ufcg.edu.br
